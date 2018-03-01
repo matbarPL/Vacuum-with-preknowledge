@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from graphviz import Digraph
-from kolejka import Queue
+from Queue import Queue
 import sys
 from Board import *
 
